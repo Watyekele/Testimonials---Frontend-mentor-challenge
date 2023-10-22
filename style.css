@@ -115,7 +115,7 @@ strong {
   .container {
     grid-template-columns: 1fr;
     width: 100%;
-    margin: 20px;
+    margin: 30px auto;
   }
   .item-1 {
     background-image: url(./images/bg-pattern-quotation.svg);
